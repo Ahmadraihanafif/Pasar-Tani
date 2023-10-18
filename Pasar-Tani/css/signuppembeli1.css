@@ -1,0 +1,43 @@
+.text-header {
+  text-align: center;
+  margin-top: 100px;
+  font-weight: bold;
+}
+.text-create {
+  text-align: center;
+  margin-right: 200px;
+}
+.text-h2-create {
+  font-size: 20px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+.form-control {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.form-label {
+  margin-left: 390px;
+}
+
+.bg-hijau {
+  background-color: #93ff97;
+  cursor: auto;
+  margin-top: 80px;
+}
+
+.bg-button {
+  background-color: #53aa48;
+  border-radius: 10px;
+}
+.btn-back {
+  width: 200px;
+  height: 40px;
+  margin-left: 115px;
+}
+.btn-next {
+  width: 200px;
+  height: 40px;
+  margin-left: 10px;
+}

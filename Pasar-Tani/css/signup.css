@@ -1,0 +1,23 @@
+.text-signup {
+  text-align: center;
+  margin-top: 100px;
+  font-weight: bold;
+  margin-bottom: 150px;
+}
+.col {
+  font-size: 10px;
+}
+.header-p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.bg-hijau {
+  background-color: #93ff97;
+  cursor: auto;
+  margin-top: 150px;
+}
+
+.bg-button {
+  background-color: #53aa48;
+  border-radius: 10px;
+}
